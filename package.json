@@ -1,0 +1,23 @@
+{
+  "name": "firstreactapp",
+  "version": "1.0.0",
+  "description": "First reactjs app",
+  "main": "index.js",
+  "scripts": {
+    "start":"webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supran2811/FirstReactJSApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supran2811/FirstReactJSApp/issues"
+  },
+  "homepage": "https://github.com/supran2811/FirstReactJSApp#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
